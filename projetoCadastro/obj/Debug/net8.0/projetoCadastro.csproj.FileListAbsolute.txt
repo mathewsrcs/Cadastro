@@ -1,0 +1,14 @@
+D:\ProjetosGIT\cadastrousers\projetoCadastro\bin\Debug\net8.0\projetoCadastro.exe
+D:\ProjetosGIT\cadastrousers\projetoCadastro\bin\Debug\net8.0\projetoCadastro.deps.json
+D:\ProjetosGIT\cadastrousers\projetoCadastro\bin\Debug\net8.0\projetoCadastro.runtimeconfig.json
+D:\ProjetosGIT\cadastrousers\projetoCadastro\bin\Debug\net8.0\projetoCadastro.dll
+D:\ProjetosGIT\cadastrousers\projetoCadastro\bin\Debug\net8.0\projetoCadastro.pdb
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\projetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\projetoCadastro.AssemblyInfoInputs.cache
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\projetoCadastro.AssemblyInfo.cs
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\projetoCadastro.csproj.CoreCompileInputs.cache
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\projetoCadastro.dll
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\refint\projetoCadastro.dll
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\projetoCadastro.pdb
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\projetoCadastro.genruntimeconfig.cache
+D:\ProjetosGIT\cadastrousers\projetoCadastro\obj\Debug\net8.0\ref\projetoCadastro.dll
