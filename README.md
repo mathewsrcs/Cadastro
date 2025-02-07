@@ -13,6 +13,4 @@ Cadastro de novos usuários
 
 Listagem de usuários cadastrados
 
-Edição de informações do usuário
-
 Exclusão de usuários
