@@ -15,7 +15,7 @@ Listagem de usuários cadastrados
 
 Exclusão de usuários
 
-#Explicação do Código
+# Explicação do Código
 ```
 1. Estruturas e Enumerações
 ```
